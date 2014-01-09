@@ -1,0 +1,11 @@
+<suite name="ComponentTest" verbose="1">
+	<test name="ComponentTest" junit="false" preserve-order="true">
+		<classes>
+			<class name="com.photon.phresco.test.SampleTest">
+				<methods>
+					<include name="sample"></include>  
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite> 

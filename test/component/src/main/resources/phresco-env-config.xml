@@ -1,0 +1,13 @@
+<environments>
+    <environment default="true" name="Production">
+        <WebService name="BTService">
+            <port>8080</port>
+            <password>password</password>
+            <context>sampleContext</context>
+            <host>localhost</host>
+            <timeout>30000</timeout>
+            <protocol>http</protocol>
+            <username>test</username>
+        </WebService>
+    </environment>
+</environments>

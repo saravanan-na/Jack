@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    PHR_HTML5YUIWidget
+
+    Copyright (C) 1999-2013 Photon Infotech Inc.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+            http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<jquerywidgetsdata>
+
+	<jquerywidget>
+	     <registration>
+	              <firstname>Phresco</firstname>
+	               <lastname>Tester</lastname>
+	               <email>PhrescoTester@photoninfotech.com</email>
+	               <password>Phresco</password>
+	               <phonenumber>5555555555</phonenumber>
+	               <reg_text-msg>Success</reg_text-msg>
+	      </registration>
+	     <billingInfoPage>
+		           <billInfoCommentsValue>First order</billInfoCommentsValue>
+		           <billInfoFirstNameValue>John</billInfoFirstNameValue>
+		           <billInfoPhoneNumberValue>+1 212-398-2449</billInfoPhoneNumberValue>
+		           <billInfoStateValue>Boston</billInfoStateValue>
+		           <billInfoLastNameValue>David</billInfoLastNameValue>
+		           <billInfoPostCodeValue>10019</billInfoPostCodeValue>
+		           <billInfoCityValue>NewJersey city</billInfoCityValue>
+		           <billInfoAddress2Value>Newyork</billInfoAddress2Value>
+		           <billInfoAddress1Value>USA</billInfoAddress1Value>
+		           <billInfoCompanyValue>Photon</billInfoCompanyValue>
+		           <billInfoEmailValue>Phresco@PhotonInfotech.net</billInfoEmailValue>
+		 </billingInfoPage>    
+		 <cardInfoPage>      
+		           <cardInfoNameOnCardValue>JohnDavid</cardInfoNameOnCardValue>
+		           <cardInfoCardNumberValue>235967841</cardInfoCardNumberValue>
+		           <cardInfoSecurityNumberValue>5836</cardInfoSecurityNumberValue>
+		 </cardInfoPage>
+	</jquerywidget>
+
+	<jquerywidget>
+	     <registration>
+	              <firstname>Photon</firstname>
+	               <lastname>Developer</lastname>
+	               <email>PhotonDeveloper@photoninfotech.com</email>
+	               <password>Photon</password>
+	               <phonenumber>1111111</phonenumber>
+	               <reg_text-msg>Success</reg_text-msg>
+	      </registration>
+	     <billingInfoPage>
+		           <billInfoCommentsValue>Second order</billInfoCommentsValue>
+		           <billInfoFirstNameValue>Sam</billInfoFirstNameValue>
+		           <billInfoPhoneNumberValue>+1 212-398-2449</billInfoPhoneNumberValue>
+		           <billInfoStateValue>Boston</billInfoStateValue>
+		           <billInfoLastNameValue>son</billInfoLastNameValue>
+		           <billInfoPostCodeValue>10019</billInfoPostCodeValue>
+		           <billInfoCityValue>Steeles Avenue East</billInfoCityValue>
+		           <billInfoAddress2Value>Markham</billInfoAddress2Value>
+		           <billInfoAddress1Value>CANADA</billInfoAddress1Value>
+		           <billInfoCompanyValue>Photon</billInfoCompanyValue>
+		           <billInfoEmailValue>Phresco@PhotonInfotech.net</billInfoEmailValue>
+		 </billingInfoPage>    
+		 <cardInfoPage>      
+		           <cardInfoNameOnCardValue>DavidJohn</cardInfoNameOnCardValue>
+		           <cardInfoCardNumberValue>159876314</cardInfoCardNumberValue>
+		           <cardInfoSecurityNumberValue>2587</cardInfoSecurityNumberValue>
+		 </cardInfoPage>
+	</jquerywidget>
+
+</jquerywidgetsdata>
